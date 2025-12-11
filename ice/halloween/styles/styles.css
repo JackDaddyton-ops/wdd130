@@ -1,0 +1,51 @@
+/* Add your CSS here to style your halloween page */
+body {
+    background-color: #221144;
+    color: #ff9900;
+    font-family: fantasy;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+li {
+    margin: 30px;
+}
+
+li:hover {
+    font-size: 30px;
+}
+
+h1 {
+    justify-self: center;
+    color: #770000;
+    font-size: 50px;
+}
+
+h1:hover {
+    font-size: 80px;
+}
+
+img {
+    display: flex;
+    justify-self: center;
+    border-style: groove;
+    border-color: #440000;
+    border-width: 30px;
+}
+
+section {
+    padding-left: 30px;
+}
+
+h2 {
+    padding-left: 50px;
+}
+
+footer {
+    padding-top: 100px;
+}
