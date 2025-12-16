@@ -4,6 +4,9 @@ body {
     background-color: #0094C6;
 }
 
+#client {
+    margin: 5%
+}
 
 header {
     display: flex;
