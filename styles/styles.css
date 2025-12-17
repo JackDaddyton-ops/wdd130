@@ -104,3 +104,37 @@ p {
     overflow: hidden;
     width: 250px;
 }
+
+.report p {
+    font-size: 20px;
+    margin-bottom: 100px;
+    color: #420042;
+}
+
+.report li {
+    font-size: 20px;
+    color: #F0F6F6;
+}
+
+.report a {
+    display: inline-block;
+    font-size: 25px;
+    color: #0094C6;
+    background-color: #103040;
+    border: #040F16 solid 4px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.report a:hover {
+    color: #F0F6F6;
+
+}
+
+.report {
+    margin-bottom: 200px;
+    border: solid #420042 20px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #005E7C;
+}
